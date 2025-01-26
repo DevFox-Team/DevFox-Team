@@ -1,3 +1,8 @@
+---
+layout: page
+title: Dungeon Sweeper Licenses
+---
+
 # Dungeon Sweeper Licenses
 
 ## JJ4Unity
