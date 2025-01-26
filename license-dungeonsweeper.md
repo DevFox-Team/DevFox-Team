@@ -1,4 +1,6 @@
-# JJ4Unity
+# Dungeon Sweeper Licenses
+
+## JJ4Unity
 
 ```
 MIT License
@@ -26,7 +28,7 @@ SOFTWARE.
 
 ---
 
-# R3
+## R3
 
 ```
 MIT License
@@ -54,7 +56,7 @@ SOFTWARE.
 
 ---
 
-# UniTask
+## UniTask
 
 ```
 The MIT License (MIT)
@@ -82,7 +84,7 @@ SOFTWARE.
 
 ---
 
-# Animated Exhaust pixel Pack Free
+## Animated Exhaust pixel Pack Free
 
 ```
 END-USER LICENSE AGREEMENT - CC0 1.0
@@ -96,7 +98,7 @@ By marking the work with a CC0 public domain dedication, credit is not required 
 
 ---
 
-# 2D Pixel Unit Maker - SPUM
+## 2D Pixel Unit Maker - SPUM
 
 ```
 The following custom licence applies to this asset in addition to the Asset Store End User License Agreement.
@@ -112,7 +114,7 @@ Creation of content for Metaverse-related and/or game creation software and prod
 
 ---
 
-# DOTween
+## DOTween
 
 ```
 https://dotween.demigiant.com/license.php
@@ -120,7 +122,7 @@ https://dotween.demigiant.com/license.php
 
 ---
 
-# UIEffect v5
+## UIEffect v5
 
 ```
 Copyright 2017-2024 mob-sakai
@@ -134,7 +136,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-# QuinqueFive
+## QuinqueFive
 
 ```
 Copyright © 2019-2023 GGBotNet (https://ggbot.net/fonts), with Reserved Font Name "QuinqueFive".
